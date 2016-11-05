@@ -2,7 +2,7 @@
  * driver.cpp
  *
  *  Created on: Oct 31, 2016
- *      Author: michael
+ *      Authors: michael & nikmedoed
  */
 
 // for build
